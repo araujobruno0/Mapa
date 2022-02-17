@@ -1,0 +1,8 @@
+{
+  "expoServerNgrokUrl": "https://q3-frg.anonymous.mapa.exp.direct",
+  "packagerNgrokUrl": "https://q3-frg.anonymous.mapa.exp.direct",
+  "ngrokPid": 4128,
+  "devToolsPort": 19003,
+  "expoServerPort": 19001,
+  "packagerPort": 19001
+}
